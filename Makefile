@@ -1,4 +1,4 @@
-asg2-shell: asg2-shell.c
+shell: shell.c
 
 clean:
-	rm -rf asg2-shell
+	rm -rf shell
